@@ -1,0 +1,14 @@
+# ASCII Contribution Heatmap — configuration
+#
+# These values are defaults. Any of them can be overridden by setting an
+# environment variable of the same name (uppercased) in your workflow —
+# see .github/workflows/update-heatmap.yml.
+#
+# username and token are usually best kept OUT of this file (use repo
+# Variables/Secrets instead) so forks don't need to edit source-controlled
+# files just to point the tool at themselves.
+
+username: null          # overridden by GH_USERNAME (repo variable, not a secret)
+readme_path: README.md  # path to the README that gets the injected block
+theme: green             # green | ocean | sunset | mono
+output_dir: assets       # where heatmap.svg / heatmap.txt get written
