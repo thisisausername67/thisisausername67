@@ -1,10 +1,10 @@
-    Aug     Sep     Oct     Nov       Dec     Jan     Feb     Mar       Apr     May       Jun     Jul     Aug 
+    Aug   Sep     Oct     Nov       Dec     Jan     Feb     Mar       Apr     May       Jun     Jul     Aug   
 Mon                                                                                                           
                                                                                                               
 Wed                                                                                                           
                                                                                                               
 Fri                                                                                                           
-                                                                                                    ░   █     
+                                                                                                  ░   █       
                                                                                                               
 
 Less   ░ ▒ ▓ █ More
